@@ -1,6 +1,6 @@
 Summary:	DevHelp book: gdk
 Summary(pl):	Ksi±¿ka do DevHelp'a o gdk
-Name:		devhelp-book-gdk
+Name:		devhelp-book-gdk2
 Version:	2.0
 Release:	1
 License:	GPL
