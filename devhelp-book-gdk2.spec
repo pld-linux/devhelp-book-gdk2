@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/gdk-2.0.tar.gz
+# Source0-md5:	7eb6462252f51d751fc447596cd15deb
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
