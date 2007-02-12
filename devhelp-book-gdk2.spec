@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gdk 2.0
-Summary(pl.UTF-8):   Książka do DevHelpa o gdk 2.0
+Summary(pl.UTF-8):	Książka do DevHelpa o gdk 2.0
 Name:		devhelp-book-gdk2
 Version:	2.0
 Release:	1
